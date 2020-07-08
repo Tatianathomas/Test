@@ -1,0 +1,18 @@
+body {
+    display: flex;
+}
+
+.block, .black {
+    height: 200px;
+    width: 200px;
+    border: 2px solid #000000;
+    cursor: pointer;
+}
+
+.block {
+    background-color: #c4c4c4
+}
+
+.black {
+    background-color: #000000;
+}
